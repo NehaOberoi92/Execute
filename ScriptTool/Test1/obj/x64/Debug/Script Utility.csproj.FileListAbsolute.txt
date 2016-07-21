@@ -1,0 +1,12 @@
+D:\ExecuteSqlScript-master\ExecuteSqlScript-master\ScriptTool\Test1\bin\x64\Debug\Script Utility.exe.config
+D:\ExecuteSqlScript-master\ExecuteSqlScript-master\ScriptTool\Test1\bin\x64\Debug\Script Utility.exe
+D:\ExecuteSqlScript-master\ExecuteSqlScript-master\ScriptTool\Test1\bin\x64\Debug\Script Utility.pdb
+D:\ExecuteSqlScript-master\ExecuteSqlScript-master\ScriptTool\Test1\bin\x64\Debug\Acidaes.BusinessNext.Caching.dll
+D:\ExecuteSqlScript-master\ExecuteSqlScript-master\ScriptTool\Test1\bin\x64\Debug\Acidaes.Data.dll
+D:\ExecuteSqlScript-master\ExecuteSqlScript-master\ScriptTool\Test1\bin\x64\Debug\Acidaes.Deployment.dll
+D:\ExecuteSqlScript-master\ExecuteSqlScript-master\ScriptTool\Test1\obj\x64\Debug\Script Utility.csprojResolveAssemblyReference.cache
+D:\ExecuteSqlScript-master\ExecuteSqlScript-master\ScriptTool\Test1\obj\x64\Debug\Test1.Form1.resources
+D:\ExecuteSqlScript-master\ExecuteSqlScript-master\ScriptTool\Test1\obj\x64\Debug\Test1.Properties.Resources.resources
+D:\ExecuteSqlScript-master\ExecuteSqlScript-master\ScriptTool\Test1\obj\x64\Debug\Script Utility.csproj.GenerateResource.Cache
+D:\ExecuteSqlScript-master\ExecuteSqlScript-master\ScriptTool\Test1\obj\x64\Debug\Script Utility.exe
+D:\ExecuteSqlScript-master\ExecuteSqlScript-master\ScriptTool\Test1\obj\x64\Debug\Script Utility.pdb
